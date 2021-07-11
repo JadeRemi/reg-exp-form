@@ -26,7 +26,7 @@ Phone number:
 
 Site:
 * starting with http:// or https://;
-* afterwards www. — optional part;
+* afterwards www . — optional part;
 * IP-address — 255.255.255.255 or domain name — jaderemi.ru;
 * port — optional group aswell. Port starts with a colon, followed by 2 to 5 numbers. For example: :8080;
 * path — a sequence of numbers, slash symbols or latin letters, having a pound at the end #;
