@@ -12,7 +12,7 @@ Name:
 * double names are allowed — for example, Ann-Marie;
 
 Email:
-* latim symbols only;
+* latin symbols only;
 * «at» @ — required symbol;
 * dot . — required symbol;
 * numbers, underscore, dash — allowed symbols;
